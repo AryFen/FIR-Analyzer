@@ -316,7 +316,7 @@ def Main():
         )
 
         with st.container(height=230):
-            st.write("hello")
+            st.write("Placeholder for List")
         
         with st.container(height=450):
             reporter_df = df.copy()
